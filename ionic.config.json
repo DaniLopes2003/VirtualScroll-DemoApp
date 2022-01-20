@@ -1,0 +1,7 @@
+{
+  "name": "VirtualScroll-DemoApp",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
