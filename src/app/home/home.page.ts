@@ -6,6 +6,14 @@ import { Component } from '@angular/core';
   styleUrls: ['home.page.scss'],
 })
 export class HomePage {
+  items = [{name: 'Dani'}, {name: 'Lopes'}, {name: 'DaniLo'},
+    {name: 'DaniLo'},
+    {name: 'DaniLo'},
+    {name: 'DaniLo'},
+    {name: 'DaniLo'},
+    {name: 'DaniLo'},
+    {name: 'DaniLo'},
+    {name: 'DaniLo'}];
 
   constructor() {}
 
